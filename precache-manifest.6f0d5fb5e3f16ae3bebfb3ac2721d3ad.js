@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "894dc1301377b4ee64b7",
-    "url": "/weather-react-app/static/js/main.894dc130.chunk.js"
+    "revision": "276875100cffb432ff00",
+    "url": "/weather-react-app/static/js/main.27687510.chunk.js"
   },
   {
     "revision": "e7c041a10672ccb52809",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/weather-react-app/static/media/sunIcon.051e123c.svg"
   },
   {
-    "revision": "2c3ea6b3ce54d1427e084dd6dc9b10b2",
+    "revision": "8ca206f867ab82074a6acef513556418",
     "url": "/weather-react-app/index.html"
   }
 ];
